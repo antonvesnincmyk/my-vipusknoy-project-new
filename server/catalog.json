@@ -1,0 +1,50 @@
+[
+    {
+         "id": "el1",
+         "name": "Пленка Instax Mini Mermaid Tail (10 шт.)",
+         "img": "img/catalog/01.jpg",
+         "price": 850
+     },
+     {
+         "id": "el2",
+         "name": "Пленка Instax Mini 10х5 (50 шт.)",
+         "img": "img/catalog/02.jpg",
+         "price": 2950
+     },
+     {
+         "id": "el3",
+         "name": "Пленка Instax Mini Confetti (10 шт.)",
+         "img": "img/catalog/03.jpg",
+         "price": 850
+     },
+     {
+         "id": "el4",
+         "name": "Пленка для Instax SQUARE и SP3 Star-illumination (10 шт.)",
+         "img": "img/catalog/04.jpg",
+         "price": 990
+     },
+     {
+         "id": "el5",
+         "name": "Паспарту на прищепках INSTAX 10 PACK MINI PAPER CARD BANNER",
+         "img": "img/catalog/05.jpg",
+         "price": 459
+     },
+     {
+         "id": "el6",
+         "name": "Фоторамка INSTAX MINI ACRYLIC PHOTO BLOCK",
+         "img": "img/catalog/06.jpg",
+         "price": 590
+     },
+     {
+         "id": "el7",
+         "name": "Фоторамка INSTAX TRIPLE SQUARE GLASS FRAME",
+         "img": "img/catalog/07.jpg",
+         "price": 899
+     },
+     {
+         "id": "el8",
+         "name": "Фоторамка INSTAX TRIPLE MINI GLASS FRAME",
+         "img": "img/catalog/08.jpg",
+         "price": 899
+     }
+ ]
